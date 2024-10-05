@@ -1,0 +1,25 @@
+Robotics Project Documentation
+Overview
+This project covers multiple aspects of robotics, including SLAM, path planning, and robot navigation in a simulated environment. Below is a brief overview of the learning outcomes and project requirements.
+
+SLO 1: Problem Identification and Scope
+Stakeholder Engagement: Include progress updates with stakeholders, including meeting dates, names, and discussion summaries.
+SLO 2: Design Thinking for Robotics
+SLAM & Path Planning Context: Describe how SLAM and path planning contribute to the project, including their benefits.
+SLO 3: Technical Skills Application
+SLAM Description: Define SLAM, why it's important, sensors used, challenges, and popular techniques in ROS.
+SLAM Demonstration: Show SLAM in Gazebo, remote control robot to generate a map, and overlay it on the Gazebo map. Challenges must be documented.
+Computation Analysis: Analyze the computation time for the SLAM task in the report.
+Path Planning Description: Briefly explain path planning and its challenges, and list three types of algorithms.
+Path Planning Demonstration: Show path planning in Gazebo using a generated map. Discuss the challenges faced.
+Object Exclusion in Mapping: Write a ROS node to identify and exclude a cylindrical object using laser scans.
+SLO 4: Collaboration and Communication
+Time Management: Demonstrate successful completion of all Sprint 3 tasks.
+GitHub Repository: Provide a link to the repository in the report.
+Documentation: Produce a well-formatted project portfolio and code documentation using Doxygen.
+Repository
+This repository includes:
+
+Source code for SLAM and path planning tasks.
+ROS nodes and scripts for simulation in Gazebo.
+Documentation generated with Doxygen.
